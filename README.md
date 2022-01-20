@@ -1,2 +1,1 @@
-# PHPLoginPage
-Login and sign up page using php and mysql.
+# Database-connectivity-for-website-using-local-server
